@@ -20,8 +20,12 @@ public class BodyOfWater{
         name = n;
         
     }
-    public void setLargestDiameter(int l)
-    largestDiameter = l;
+    public void setLargestDiameter(int l){
+        largestDiameter = l;
+
+    }
+    public void 
+
          
     }
 
