@@ -17,11 +17,11 @@ public class BodyOfWater{
         avgDepth = a;
     }
     public void setName(String n) {
-        name = n;
+        this.name = n;
         
     }
     public void setLargestDiameter(int l){
-        largestDiameter = l;
+        this.largestDiameter = l;
 
     }
     public void printState(){
