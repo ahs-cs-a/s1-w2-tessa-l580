@@ -24,7 +24,12 @@ public class BodyOfWater{
         largestDiameter = l;
 
     }
-    public void 
+    public void printState(){
+        System.out.println("name:" + name);
+        System.out.println("largest diameter:" + largestDiameter);
+        System.out.println("average depth:" + avgDepth);
+        
+    }
 
          
     }
